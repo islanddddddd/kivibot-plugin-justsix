@@ -11,5 +11,10 @@
         "kivi"
     ],
     "author": "islanddddddd",
-    "license": "ISC"
+    "license": "ISC",
+    "homepage": "https://github.com/islanddddddd/kivibot-plugin-justsix",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/islanddddddd/kivibot-plugin-justsix"
+    }
 }
